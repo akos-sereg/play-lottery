@@ -1,0 +1,34 @@
+{
+  "name": "play-lottery",
+  "description": "Generates random lottery numbers",
+  "author": {
+    "name": "Akos Sereg",
+    "email": "akos.sereg@gmail.com"
+  },
+  "version": "0.0.1",
+  "homepage": "https://github.com/akos-sereg/play-lottery",
+  "repository": "akos-sereg/play-lottery",
+  "license": "MIT",
+  "main": "./index.js",
+  "scripts": { },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "chalk": "~1.1.3",
+    "cheerio": "^0.20.0",
+    "columnify": "^1.5.4",
+    "minimist": "^1.2.0",
+    "moment": "^2.14.1",
+    "sync-request": "^3.0.1"
+  },
+  "keywords": [
+    "lottery"
+  ],
+  "bugs": {
+    "url": "https://github.com/akos-sereg/play-lottery/issues"
+  },
+  "devDependencies": {
+    "chalk": "~1.1.3"
+  }
+}
