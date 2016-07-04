@@ -17,5 +17,6 @@ Accept? [Y/n]
 
 ... now you can use these numbers to play lottery.
 
-Checking latest lotto results:
+Checking latest lotto results from www.szerencsejatek.hu (hungarian lottery)
 
+![Checking](https://raw.githubusercontent.com/akos-sereg/play-lottery/master/doc/screenshot.png "Screenshot")
