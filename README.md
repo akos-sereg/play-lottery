@@ -20,3 +20,10 @@ Accept? [Y/n]
 Checking latest lotto results from www.szerencsejatek.hu (hungarian lottery)
 
 ![Checking](https://raw.githubusercontent.com/akos-sereg/play-lottery/master/doc/screenshot.png "Screenshot")
+
+Insert this line into your .bashrc
+
+```
+# Use "--weekly-check-only" switch if you want check.sh to run only once a week
+~/play-lottery/check.sh --weekly-check-only
+```
