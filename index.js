@@ -11,7 +11,7 @@ else if (argv.list) {
 }
 else if (argv.checkresults) {
 	// Check latest lottery numbers
-	playLottery.checkResults(argv.checkresults);
+	playLottery.checkResults(argv.checkresults, argv.code);
 }
 else {
 	// Help screen
